@@ -1,0 +1,8 @@
+﻿*bin*
+*build*
+*.user
+*user*
+*.cmake*
+*.a*
+*.cbp*
+*CMakeFiles*
